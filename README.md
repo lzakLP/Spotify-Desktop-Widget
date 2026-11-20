@@ -1,4 +1,4 @@
-# Spotify Desktop Widget
+# Spotify Desktop Widget V.1
 
 A lightweight floating desktop music widget for Windows 10 and Windows 11. Built with Python and PySide6, it uses the Windows Global System Media Transport Controls (GSMTC) API to display Spotify playback information and provide basic playback controls.
 
